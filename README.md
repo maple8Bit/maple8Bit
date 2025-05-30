@@ -4,5 +4,5 @@
 - 💞️ Including SDE/Data/Quant/AI/MLE
 - 📫 How to reach me ... wx:alittlebitmaple
 - ⚡ Fun fact: I am not a developer but we have mentors from all the big companies like Netflix, Google, Amazon, APPLE, Meta, SIG, Jump Trading...
-- Let us say "Hello World" and start from bit to Giga
+- 🤖 Let us say "Hello World" and start from bit to Giga
 
